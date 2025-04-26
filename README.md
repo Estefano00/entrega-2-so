@@ -1,3 +1,13 @@
+# Módulo 2 S.O.
+
+
+Estefano Nascimento 7970044
+
+Ligia Keiko Carvalho 13242363
+
+Pyerry Klyzlow Xavier 15484839
+
+
 # Visão geral do programa
 
 Este código implementa o problema clássico do Produtor-Consumidor descrito no capítulo 2 (“Processos e Threads”) de Sistemas Operacionais Modernos de Andrew S. Tanenbaum.
