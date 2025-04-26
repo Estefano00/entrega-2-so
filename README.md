@@ -124,6 +124,3 @@ Função de arranque. Valida a linha de comando, converte parâmetros e chama bu
 
 1. TANENBAUM, A. S.; BOS, H.Modern Operating Systems. 4th ed. Pearson, 2015 – Seções 2.3 (“Cooperating Processes”) e 2.4 (“Threads”).
 2. IEEE Std 1003.1-2017 – POSIX.1 Base Specifications, § Threads (pthread_*) e § Semaphores (sem_*).
-3. SILBERSCHATZ, A.; GALVIN, P. B.; GAGNE, G.Operating System Concepts. 10th ed. Wiley, 2018 – Cap. 5 (“Process Synchronization”) para leitura complementar.
-
-**
